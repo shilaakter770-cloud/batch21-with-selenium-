@@ -1,0 +1,15 @@
+{
+  "name": "batch21",
+  "version": "1.0.0",
+  "description": "this is selenium basic projects",
+  "license": "ISC",
+  "author": "shila",
+  "type": "module",
+  "main": "base.js",
+  "scripts": {
+    "test": "node base.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.51.0"
+  }
+}
